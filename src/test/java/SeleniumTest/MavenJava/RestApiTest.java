@@ -8,6 +8,7 @@ public class RestApiTest {
 	public void postjira()
 	{
 		System.out.println("RestAPITest postjira");
+		System.out.println("changes dated 12/13/2020");
 	}
 	
 	@Test

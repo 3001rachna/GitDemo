@@ -7,6 +7,7 @@ public class AppiumTest {
 	public void NativeAppAndroid()
 	{
 		System.out.println("AppiumTest NativeAppAndroid");
+		System.out.println("changes dated 12/13/2020");
 	}
 	
 	@Test
