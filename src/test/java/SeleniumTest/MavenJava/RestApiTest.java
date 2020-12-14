@@ -26,5 +26,11 @@ public class RestApiTest {
 	{
 		System.out.println("RestAPITest twitterDelete");	
 	}
+	
+	public void ArchitectStuff()
+	{
+		System.out.println("ArchitectStuffchg");
+		System.out.println("ArchitectStuff changes dated 12/13/2020");
+	}	
 
 }
