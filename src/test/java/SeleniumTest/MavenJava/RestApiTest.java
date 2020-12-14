@@ -9,7 +9,17 @@ public class RestApiTest {
 	{
 		System.out.println("RestAPITest postjira");
 		System.out.println("changes dated 12/13/2020");
+		
+		System.out.println("Architect changes dated 12/13/2020");
+		System.out.println("Architect changes dated 12/13/2020");
+		System.out.println("Architect changes dated 12/13/2020");
 	}
+	
+	public void Architect()
+	{
+		System.out.println("Architectchg");
+		System.out.println("Architect changes dated 12/13/2020");
+	}	
 	
 	@Test
 	public void twitterDelete()

@@ -9,10 +9,15 @@ public class AppiumTest {
 		System.out.println("AppiumTest NativeAppAndroid");
 		System.out.println("changes dated 12/13/2020");
 		System.out.println("gitstuff changes1");
-		System.out.println("gitstuff changes2");
-		System.out.println("gitstuff changes3");
-		System.out.println("gitstuff changes4");
+		System.out.println("Architect changes dated 12/13/2020");
+		System.out.println("Architect changes dated 12/13/2020");
 	}
+	
+	public void Architectchg()
+	{
+		System.out.println("AppiumTest Architectchg");
+		System.out.println("Architect changes dated 12/13/2020");
+	}	
 	
 	@Test
 	public void IOSApps()
