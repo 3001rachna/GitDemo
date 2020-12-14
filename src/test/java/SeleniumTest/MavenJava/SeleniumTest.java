@@ -18,4 +18,10 @@ public class SeleniumTest {
 	System.out.println("SeleniumTest elementsUI");	
 	}
 	
+	public void Architectstuff()
+	{
+	System.out.println("Architect stuff changes");
+	System.out.println("Architect stuff changes");
+	}
+	
 }
